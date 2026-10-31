@@ -7,6 +7,7 @@ engineered dimension tables, 20 DAX measures, and an executive dashboard
 delivering insights on revenue, estimated profit, discount behaviour, regional
 performance, and category mix.
 
+![Global Superstore Dashboard](amazon_sales_dashboard.png)
 ---
 
 ## Dataset Overview
